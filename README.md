@@ -1,4 +1,3 @@
-![424376818-a862cdb7-58fe-4f3c-86cb-9284559715e0](https://github.com/user-attachments/assets/8ad27432-4295-4949-a1db-1bd12e56df39)# SGD-Classifier
 ## AIM:
 To write a program to predict the type of species of the Iris flower using the SGD Classifier.
 
